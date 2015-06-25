@@ -18,7 +18,8 @@ public class JavaApplication11 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println();
-        System.out.println("Just when does it go out??");
+        System.out.println("Just when does it go o??");
+        System.out.println("");
     }
     
 }
