@@ -16,4 +16,9 @@ public class NewClass {
     //hello
     
     //Once upon a time
+    
+    
+    public static void bMethod(){
+        
+    }
 }
