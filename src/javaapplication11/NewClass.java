@@ -16,4 +16,9 @@ public class NewClass {
     //hello
     
     //Once upon a time
+
+public static void aMethod(){
+    //There once was a man from Nottingham
+    
+}
 }
