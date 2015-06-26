@@ -12,4 +12,6 @@ package javaapplication11;
  */
 public class NewClass {
     //hello
+    
+    //Once upon a time
 }
