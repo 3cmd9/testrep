@@ -8,8 +8,8 @@ package javaapplication11;
 
 /**
  *
- * @author MikeRD
+ * @author MikeRD the awesome
  */
 public class NewClass {
-    
+    //hello
 }
