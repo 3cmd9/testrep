@@ -24,6 +24,7 @@ public class NewClass {
 
 public static void aMethod(){
     //There once was a man from Nottingham
-    
+    System.out.println();
+    System.out.println();
 }
 }
