@@ -8,7 +8,9 @@ package javaapplication11;
 
 /**
  *
- * @author MikeRD the awesome
+
+ * @author MikeRD the great
+
  */
 public class NewClass {
     //hello
