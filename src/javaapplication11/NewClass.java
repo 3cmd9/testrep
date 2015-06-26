@@ -9,7 +9,7 @@ package javaapplication11;
 /**
  *
 
- * @author MikeRD the great
+ * @author MikeRD the bet
 
  */
 public class NewClass {
@@ -26,5 +26,6 @@ public static void aMethod(){
     //There once was a man from Nottingham
     System.out.println();
     System.out.println();
+    //you did a great job here thanks
 }
 }
