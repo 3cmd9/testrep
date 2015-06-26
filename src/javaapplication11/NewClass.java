@@ -21,4 +21,9 @@ public class NewClass {
     public static void bMethod(){
         
     }
+
+public static void aMethod(){
+    //There once was a man from Nottingham
+    
+}
 }
