@@ -8,8 +8,10 @@ package javaapplication11;
 
 /**
  *
- * @author MikeRD
+ * @author MikeRD the great
  */
 public class NewClass {
     
+    
+    //world
 }
